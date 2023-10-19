@@ -1,2 +1,1 @@
-# DyyDoS
-(alat attacking website)
+# C2
